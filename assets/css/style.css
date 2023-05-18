@@ -1,0 +1,11 @@
+#tablaresultado{
+    text-align: center;
+    padding:10px;
+    border:solid black 1px;
+}
+
+#tablaregistro td,th{
+    text-align: center;
+    padding:10px;
+    border:solid black 1px;
+}
